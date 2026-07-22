@@ -1,6 +1,6 @@
 # SafeWallet – AI-Powered Fraud Detection & Identity Verification Platform
 
-Hello! 😊 This repository contains my semester project: an AI-powered platform for fraud detection and identity verification in financial systems.
+Hello! 😊 This repository contains an academic project: an AI-powered platform for fraud detection and identity verification in financial systems.
 
 ## Demo
 Watch a quick demo of the platform here: [YouTube Demo](https://youtu.be/YYAs1Bp0wNs)  
